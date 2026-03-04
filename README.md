@@ -20,6 +20,3 @@ Success criteria:
   Detects missing tags correctly
   Produces clean JSON report
   Code committed with clear messages
-
-  sahsvdiuyvaeuf
-  renote commit
